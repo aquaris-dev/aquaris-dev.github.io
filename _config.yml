@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Lineage OS
+name: Aquaris-dev
 
 # Short bio or description (displayed in the header)
-description: Lineage OS Android Distribution
+description: Official LineageOS mantainers for QCOM BQ devices
 
 
 #
@@ -17,17 +17,17 @@ description: Lineage OS Android Distribution
 footer-links:
   dribbble:
   email:
-  facebook: lineageandroid
+  facebook: 
   flickr:
-  github: lineageos
+  github: aquaris-dev
   instagram:
   linkedin:
   pinterest:
   rss: true # just type anything here for a working RSS icon
-  twitter: lineageandroid
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: 113897076738126120764 # anything in your profile username that comes after plus.google.com/
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -35,7 +35,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-89627920-1
+google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
