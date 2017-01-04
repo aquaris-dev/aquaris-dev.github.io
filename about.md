@@ -32,13 +32,13 @@ Aaquaris-dev currently is a collaboration of the following developers from the f
 
 - brinlyau - Brinly Taylor {% include au.html %}
 
-- cmorlok - Christian Morlok {% include de.html %} {% include se.html %}
+- cmorlok - Christian Morlok {% include de.html %} {% include ch.html %}
 
 - eloimuns - Eloi Carracedo {% include es.html %}
 
 - kra1o5 - Alejandro {% include es.html %}
 
-- stucki - Michael Stucki {% include de.html %} {% include se.html %}
+- stucki - Michael Stucki {% include de.html %} {% include ch.html %}
 
 As you can see, we're an international group of developers and we welcome Android developers to contribute (see below). 
 
