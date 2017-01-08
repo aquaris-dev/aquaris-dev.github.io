@@ -16,7 +16,7 @@ We plan to support other Qualcomm BQ devices (U series) in the future with our L
 ### Where can you get our work?
 
 We have active forum threads, [htcmania.com](http://www.htcmania.com/forumdisplay.php?f=2091) for Spanish users and [android-hilfe.de](http://www.android-hilfe.de/forum/bq-forum.2047/) for Deutsch users. 
-Both contain WIP projects and direct download link on the LineageOS download page for official projects.
+Both contain WIP projects and direct download link on the [LineageOS download page](https://download.lineageos.org) for official projects.
 
 ### OMG, I found a bug/issue - help!!
 
@@ -24,7 +24,7 @@ Sorry to hear that, we put a lot of effort into building our releases but we'd a
 
 ### Is the source code available?
 
-Absolutely! Android is an open source project, and so is ours. All code used to build our ROMs is available on GitHub, either directly from us at bq-dev for WIP projects or as part of LineageOS.
+Absolutely! Android is an open source project, and so is ours. All code used to build our ROMs is available on GitHub, either directly from us at [aquaris-dev](https://github.com/aquaris-dev) for WIP projects or as part of LineageOS.
 
 ### Who are we? 
 
@@ -44,4 +44,4 @@ As you can see, we're an international group of developers and we welcome Androi
 
 ### Exciting, but how can I help out? 
 
-Since we're an open source developers, you can help out by submitting a patch either as a pull request to our GitHub repo  for WIP projects (devices etc) or to the LineageOS [gerrit](https://review.lineageos.org/#/q/status:open) instance for officially supported projects. Supplying good bug reports (logs/screenshots/repro steps) helps to track down issues.  We're excited for your contribution to make Android better on BQ devices.
+Since we're an open source developers, you can help out by submitting a patch either as a pull request to our GitHub [repo/organization](https://github.com/aquaris-dev) for WIP projects (devices etc) or to the LineageOS [gerrit](https://review.lineageos.org/#/q/status:open) instance for officially supported projects. Supplying good bug reports (logs/screenshots/repro steps) helps to track down issues.  We're excited for your contribution to make Android better on BQ devices.
