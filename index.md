@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 ## What is aquaris-dev?
 
 Aquaris-dev is a group of independent Android developers whose members voluntarily work on [BQ](https://www.bq.com/) Aquaris devices as official maintainers of the [LineageOS](https://github.com/lineageos) Android custom ROM. We aim to provide the newest version of Android (LineageOS) for as many of the latest Aquaris devices. We contribute our work to the LineageOS project (previously, we worked on CyanogenMod).
