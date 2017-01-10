@@ -27,7 +27,7 @@ Sorry to hear that! We put a lot of effort into building our releases, but we'd 
 
 Absolutely! Android is an open source project, and so is ours. All code used to build our ROMs is available on GitHub, either directly from us at [Aquaris-dev](https://github.com/aquaris-dev) for device specific projects or as part of [LineageOS](https://github.com/lineageos) for the main system.
 
-### Who are we? 
+### Who are we?
 
 Aquaris-dev currently is a collaboration of the following developers from the following countries (handle first, then real name) by alphabetical order: 
 
@@ -43,7 +43,7 @@ Aquaris-dev currently is a collaboration of the following developers from the fo
 
 We're an international group of developers and we welcome Android developers to contribute (see below). 
 
-### Exciting, but how can I help out? 
+### Exciting, but how can I help out?
 
 Since we're an open source project, you can help out by submitting a patch either as a pull request to our GitHub [repo/organization](https://github.com/aquaris-dev) for WiP projects (devices etc.) or to the LineageOS [Gerrit](https://review.lineageos.org/#/q/status:open) instance for officially supported projects. 
 
