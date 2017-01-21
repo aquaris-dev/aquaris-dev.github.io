@@ -18,7 +18,8 @@ LineageOS Status
 
 As you might know, the new project "LineageOS" has been started to replace the great CyanogenMod project which is now discontinued. The new project can be considered as a friendly fork, therefore almost all developers who worked on CyanogenMod are now also working on LineageOS. This is good news for you as a user. Only a few things change, the most remarkable of it being the new name for you to remember… 
 
-Although the LineageOS project was started only a few weeks ago, it is already in full swing today: Take a look at the latest blog post which was published earlier this week that gives an update from the LineageOS developers: [http://lineageos.org/Update-and-Build-Prep/](http://lineageos.org/Update-and-Build-Prep/) 
+Although the LineageOS project was started only a few weeks ago, it is already in full swing today: Take a look at the latest blog post which was published earlier this week that gives an update from the LineageOS developers: 
+[http://lineageos.org/Update-and-Build-Prep/](http://lineageos.org/Update-and-Build-Prep/) 
 
 The Gerrit Review system (the place where most of the development happens) is already live and receiving lots of contributions for LineageOS. Most (if not all) devices have been rebranded to the new name, and so have we done. You can check the latest changes for all BQ devices here: [https://review.lineageos.org/#/q/project:%255ELineageOS/android_.*_bq_.*](https://review.lineageos.org/#/q/project:%255ELineageOS/android_.*_bq_.*) 
 
@@ -28,7 +29,7 @@ IMPORTANT: Unfortunately, there are currently a few sites which try to mislead u
 
 For more news about the status of LineageOS, please check the [official website](http://lineageos.org/) regularly. 
 
-One of the cool things that are already available for LineageOS is a new stats page. On https://stats.lineageos.org/ you can find download statistics for each device that exists for LineageOS. We like to inform you that it is our goal and motivation to be on the top 25 of that list! Please help us and spread the word… :-) 
+One of the cool things that are already available for LineageOS is a new stats page. On [https://stats.lineageos.org/](https://stats.lineageos.org/) you can find download statistics for each device that exists for LineageOS. We like to inform you that it is our goal and motivation to be on the top 25 of that list! Please help us and spread the word… :-) 
 
 Weekly Releases
 ---------------
@@ -56,7 +57,8 @@ Known Issues & Next Steps
 * cm-14.1: This version builds fine. There are currently some issues which are known and have already existed with CyanogenMod in version cm-14.1:
   * Data connectivity is broken after leaving a Wireless LAN. If you don’t get any mobile connection, a restart of the phone is currently needed.
   * AGPS is still broken.
-  * The Camera is not fully functional.
+  * The Camera is not fully functional. 
+* We are working hard on getting these issues fixed.
 
 ### BQ Aquaris E5 LTE (vegetalte)
 
@@ -67,13 +69,13 @@ Known Issues & Next Steps
 
 * This device will soon get official releases by LineageOS.
 * Currently, the device will still get cm-13.0 instead of cm-14.1.
-* We are soon going to use the same repositories for kernel and common modifications like the Aquaris M5 and the E5 LTE. From then on, the device will work just as good as piccolo and vegetalte do (applies to both releases, cm-13.0 and cm-14.1).
-* (Background notice: There used to be two projects for this device in the past. One was developed with the device codename "paella" which was based on the X5 CyanogenOS edition. Paella was officially supported also for CyanogenMod and is the codename which was better known for this device. However, work on this tree has stopped. Meanwhile another project used the codename "picmt". It was based on the stock ROM that is released by BQ and was not officially supported by the CyanogenMod project.)
+* We are soon going to use the same repositories for kernel and common modifications like the Aquaris M5 and the E5 LTE. From then on, the device will work just as good as piccolo and vegetalte do.
 * Although the CyanogenOS edition for the X5 is officially discontinued, we will continue to support this device with LineageOS. The device name in LineageOS will be "paella" for both editions of the Aquaris X5. Most likely, a wipe will be necessary before this device can be used again with LineageOS…
+* (Background notice: There used to be two projects for this device in the past. One was developed with the device codename "paella" which was based on the X5 CyanogenOS edition. Paella was officially supported also for CyanogenMod and is the codename which was better known for this device. However, work on this tree has stopped. Meanwhile another project used the codename "picmt". It was based on the stock ROM that is released by BQ and was not officially supported by the CyanogenMod project.)
 
 ### BQ Aquaris X5 Plus (gohan)
 
-* This device will soon get official releases by LineageOS
+* This device will soon get official releases by LineageOS.
 * So far, the cm-13.0 branch builds fine. Many things work, the speaker (and probably more things) is currently broken with cm-13.0.
 * The project can be built from sources and will boot. Right now, many things work, but there are still lots of issues. At the moment, cm-13.0 still works better than cm-14.1, however new updates are only made for cm-14.1 right now.
 * We currently do not recommend that you use this version for daily use.
