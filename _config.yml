@@ -6,7 +6,7 @@
 name: Aquaris-dev
 
 # Short bio or description (displayed in the header)
-description: Official LineageOS maintainers for Qualcomm powered BQ devices
+description: LineageOS for BQ Aquaris devices
 
 #
 # Flags below are optional
@@ -22,6 +22,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
+  rss: true # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -30,7 +31,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: aquaris-dev
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
@@ -49,7 +50,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+permalink: date
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
