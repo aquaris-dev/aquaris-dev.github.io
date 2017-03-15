@@ -20,13 +20,13 @@ The links above will redirect you to the official [LineageOS Wiki](http://wiki.l
 The following devices are currently work in progress and should soon get official support by LineageOS:
 
 * Aquaris X5 Plus (gohan)
+* Aquaris U Plus (tenshi)
 
 ### Experimental
 
 Other devices are currently in experimental state:
 
 * Aquaris M5.5 (namek)
-* Aquaris U Plus (tenshi)
 
 We plan to support other Qualcomm BQ devices (U series) in the future with our LineageOS Android project. 
 
