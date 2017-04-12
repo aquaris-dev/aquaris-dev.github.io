@@ -26,4 +26,4 @@ Since we're an open source project, you can help out by submitting a patch eithe
 
 See [http://lineageos.org/community/](http://lineageos.org/community/) for more information on how you can help.
 
-We're excited for your contribution to make Android even better on BQ devices.
+We're excited for your contribution to make Android even better on bq devices.

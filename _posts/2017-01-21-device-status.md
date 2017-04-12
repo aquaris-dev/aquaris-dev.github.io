@@ -2,13 +2,13 @@
 layout: post
 title: Device Status &ndash; January 21, 2017
 category: blog
-excerpt: Current status of BQ Aquaris devices on LineageOS
+excerpt: Current status of bq Aquaris devices on LineageOS
 author: stucki
 ---
 
 Hi folks! 
 
-thanks for coming to our new website which we have just recently started for you! Our aim is to inform about the availability of LineageOS for various BQ devices, and give you the latest info about the status. 
+thanks for coming to our new website which we have just recently started for you! Our aim is to inform about the availability of LineageOS for various bq devices, and give you the latest info about the status. 
 
 In this first report, we like to give you an overall update of the things that are going on about LineageOS right now. 
 
@@ -20,7 +20,7 @@ As you might know, the new project "LineageOS" has been started to replace the g
 Although the LineageOS project was started only a few weeks ago, it is already in full swing today: Take a look at the latest blog post which was published earlier this week that gives an update from the LineageOS developers: 
 [http://lineageos.org/Update-and-Build-Prep/](http://lineageos.org/Update-and-Build-Prep/) 
 
-The Gerrit Review system (the place where most of the development happens) is already live and receiving lots of contributions for LineageOS. Most (if not all) devices have been rebranded to the new name, and so have we done. You can check the latest changes for all BQ devices here: [https://review.lineageos.org/#/q/project:%255ELineageOS/android_.*_bq_.*](https://review.lineageos.org/#/q/project:%255ELineageOS/android_.*_bq_.*) 
+The Gerrit Review system (the place where most of the development happens) is already live and receiving lots of contributions for LineageOS. Most (if not all) devices have been rebranded to the new name, and so have we done. You can check the latest changes for all bq devices here: [https://review.lineageos.org/#/q/project:%255ELineageOS/android_.*_bq_.*](https://review.lineageos.org/#/q/project:%255ELineageOS/android_.*_bq_.*) 
 
 Meanwhile, some big parts of the infrastructure are still missing. Most notably, there are no releases yet. We can’t give you an ETA right now, but rest assured that they will come as soon as possible… 
 
@@ -49,30 +49,30 @@ Meanwhile, we used to have our own issue trackers for device specific issues. Th
 Known Issues & Next Steps
 -------------------------
 
-### BQ Aquaris M5 (piccolo)
+### bq Aquaris M5 (piccolo)
 
 * This device will soon get official releases by LineageOS.
 * cm-13.0: This version builds fine and has no known issues. However it won’t get a new release with LineageOS.
 * cm-14.1: This version builds fine. There are currently some issues which are known and have already existed with CyanogenMod in version cm-14.1:
-  * Data connectivity is broken after leaving a Wireless LAN. If you don’t get any mobile connection, a restart of the phone is currently needed.
+  * Data connectivity is broken after leaving a Wireless LAN. If you don’t get any mobile connection, a restart of the phone is currently needed. (UPDATE: fixed after April 10!)
   * AGPS is still broken.
   * The Camera is not fully functional. 
 * We are working hard on getting these issues fixed.
 
-### BQ Aquaris E5 LTE (vegetalte)
+### bq Aquaris E5 LTE (vegetalte)
 
 * This device will soon get official releases by LineageOS. Again, no new cm-13.0 release will be published.
 * The device uses the same repositories for kernel and common modifications like the Aquaris M5. Therefore, it works just as good as piccolo does.
 
-### BQ Aquaris X5 (paella)
+### bq Aquaris X5 (paella)
 
 * This device will soon get official releases by LineageOS.
 * Currently, the device will still get cm-13.0 instead of cm-14.1.
 * We are soon going to use the same repositories for kernel and common modifications like the Aquaris M5 and the E5 LTE. From then on, the device will work just as good as piccolo and vegetalte do.
 * Although the CyanogenOS edition for the X5 is officially discontinued, we will continue to support this device with LineageOS. The device name in LineageOS will be "paella" for both editions of the Aquaris X5. Most likely, a wipe will be necessary before this device can be used again with LineageOS…
-* (Background notice: There used to be two projects for this device in the past. One was developed with the device codename "paella" which was based on the X5 CyanogenOS edition. Paella was officially supported also for CyanogenMod and is the codename which was better known for this device. However, work on this tree has stopped. Meanwhile another project used the codename "picmt". It was based on the stock ROM that is released by BQ and was not officially supported by the CyanogenMod project.)
+* (Background notice: There used to be two projects for this device in the past. One was developed with the device codename "paella" which was based on the X5 CyanogenOS edition. Paella was officially supported also for CyanogenMod and is the codename which was better known for this device. However, work on this tree has stopped. Meanwhile another project used the codename "picmt". It was based on the stock ROM that is released by bq and was not officially supported by the CyanogenMod project.)
 
-### BQ Aquaris X5 Plus (gohan)
+### bq Aquaris X5 Plus (gohan)
 
 * This device will soon get official releases by LineageOS.
 * So far, the cm-13.0 branch builds fine. Many things work, the speaker (and probably more things) is currently broken with cm-13.0.
@@ -80,13 +80,13 @@ Known Issues & Next Steps
 * We currently do not recommend that you use this version for daily use.
 * If you know what you’re doing, feel free to give it a try and help us to get the remaining issues fixed. We are looking forward to your contributions…!
 
-### BQ Aquaris M5.5 (namek)
+### bq Aquaris M5.5 (namek)
 
 * This device is currently work in progress. We have started a port just for the fun of it. We currently don’t know if we are going to provide regular releases (unofficial or official) for this device. This means that you need to build it yourself from the sources (on our github).
 * At the moment, only cm-13.0 is available and can be built from sources. According to our member Kra1o5 the build is running just fine.
 * A port for cm-14.1 is not available yet, but you may want to try that yourself and let us know about your work… :-) (submit your changes upstream to us)
 
-### BQ Aquaris U Plus (tenshi)
+### bq Aquaris U Plus (tenshi)
 
 * This device is currently work in progress. We have started a port just for the fun of it. We currently don’t know if we are going to provide regular releases (unofficial or official) for this device. This means that you need to build it yourself from the sources (on our github).
 * So far, there is only a branch for cm-13.0 (because this release is more mature at the moment). However, at the moment this branch does not run without a lot of hacks, so leave your hands from it unless you know what you’re doing. (Nevertheless, we are looking forward to your contributions!)

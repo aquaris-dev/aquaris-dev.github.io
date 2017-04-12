@@ -28,7 +28,7 @@ Other devices are currently in experimental state:
 
 * Aquaris M5.5 (namek)
 
-We plan to support other Qualcomm BQ devices (U series) in the future with our LineageOS Android project. 
+We plan to support other Qualcomm bq devices (U series) in the future with our LineageOS Android project. 
 
 ### Status
 
