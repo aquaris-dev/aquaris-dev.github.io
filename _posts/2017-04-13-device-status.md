@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Device Status &ndash; April 12, 2017
+title: Device Status &ndash; April 13, 2017
 category: blog
 excerpt: Current status of bq Aquaris devices on LineageOS
 author: stucki
