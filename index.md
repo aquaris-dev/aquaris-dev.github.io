@@ -5,11 +5,11 @@ title:
 
 ## What is Aquaris-dev?
 
-Aquaris-dev is a group of independent Android developers whose members voluntarily work on [BQ](https://www.bq.com/) Aquaris devices as official maintainers of the [LineageOS](http://lineageos.org/) Android <nobr>custom ROM</nobr>. We aim to provide the newest version of Android (LineageOS) for as many of the latest BQ Aquaris devices. We contribute our work to the LineageOS project (previously, we worked on CyanogenMod).
+Aquaris-dev is a group of independent Android developers whose members voluntarily work on [bq](https://www.bq.com/) Aquaris devices as official maintainers of the [LineageOS](http://lineageos.org/) Android <nobr>custom ROM</nobr>. We aim to provide the newest version of Android (LineageOS) for as many of the latest bq Aquaris devices. We contribute our work to the LineageOS project (previously, we worked on CyanogenMod).
 
 ### Which devices are supported?
 
-We only support Qualcomm based BQ devices like: <nobr>Aquaris E5 LTE (vegetalte)</nobr>, <nobr>Aquaris M5 (piccolo)</nobr>, <nobr>Aquaris X5 (paella)</nobr>, <nobr>Aquaris X5 Plus (gohan)</nobr>.  
+We only support Qualcomm based bq devices like: <nobr>Aquaris E5 LTE (vegetalte)</nobr>, <nobr>Aquaris M5 (piccolo)</nobr>, <nobr>Aquaris X5 (paella)</nobr>, <nobr>Aquaris X5 Plus (gohan)</nobr>.  
 Check the [devices page](/devices.html) for more information. 
 
 ### Where can I get your work?
