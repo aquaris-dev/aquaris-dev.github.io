@@ -15,11 +15,11 @@ This is the second report where we like to give you an overall update of the thi
 LineageOS Status
 ----------------
 
-The community around LineageOS has grown [quite notably](https://stats.lineageos.org/), and with this has our user-base: In February, the LineageOS download server identified 592 active installations of the piccolo port (bq Aquaris M5). Now in April, the number almost three times as high (April 12: 592 active installations). 
+The community around LineageOS has grown [quite notably](https://stats.lineageos.org/), and with this has our user-base: In February, the LineageOS download server identified 592 active installations of the piccolo port (bq Aquaris M5). Now in April, the number almost three times as high  
+(April 12: 592 active installations). 
 
-It is anyway great to see that the total number of active LineageOS installations is currently at more than 1.4 Million devices. 
-
-Source: [web.archive.org](http://web.archive.org/web/*/https://stats.lineageos.org/) 
+It is anyway great to see that the total number of active LineageOS installations is currently at more than 1.4 Million devices.  
+(Source: [web.archive.org](http://web.archive.org/web/*/https://stats.lineageos.org/)) 
 
 Besides this, you can always read the latest news about what's happening around LineageOS on their own blog at [lineageos.org](https://lineageos.org/).
 
