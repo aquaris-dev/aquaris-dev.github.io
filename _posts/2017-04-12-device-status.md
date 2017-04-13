@@ -49,6 +49,10 @@ Status of gohan & tenshi
 
 A lot of users have asked about the status of the bq Aquaris X5 Plus (gohan) and the bq Aquaris U Plus (tenshi).
 
-We spent a lot of time into the development of these ports until March. At the end of the month, Android 7 has been released by bq for both devices, including kernel modifications that we've been waiting for. We will soon continue working on these devices, however until now there was no time for it since the release... 
+We spent a lot of time into the development of these ports until March. Both device ports were first built with cm-13.0 (Android 6). 
+So far, tenshi with cm-13.0 is technically buildable, but not recommended for daily use. gohan is also working with cm-13.0, however the speaker is not functional (and there may be other issues). For both ports, no builds have been released, but you can make your own build from sources.  
+(Hint: [docker-lineageos](https://github.com/stucki/docker-lineageos)) 
+
+At the end of the month, Android 7 has been released by bq for both devices, including kernel modifications that we've been waiting for. This means that from now on, our work for both devices will focus on the cm-14.1 branch which is based on Android 7. We will soon continue working on these devices, however until now there was no time for it since the release... 
 
 It should be noted that the development for gohan is currently happening in a private repository (which will be published once the device boots again). Interested developers who know what this means can get in touch with [Christian](https://github.com/cmorlok) to get access to the private repository... 
