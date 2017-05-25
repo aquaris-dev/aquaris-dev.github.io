@@ -14,13 +14,17 @@ Let us know if you like our work. Use the comment form on the [blog posts](/blog
 
 ### Report bugs
 
-We put a lot of effort into building our releases, but we'd always like to be better. Please report bugs on the [GitHub issue page](https://github.com/aquaris-dev) for the corresponding device project, and we can look into it ASAP!
+We put a lot of effort into building our releases, but we'd always like to be better.
 
-Supplying good bug reports (logs, screenshots, reproduction steps) helps us to track down issues. 
+If you are using a officially supported device, please report bugs at the LineageOS [JIRA issue tracker](https://jira.lineageos.org) for the corresponding device project.
+
+Please report bugs on the [GitHub issue page](https://github.com/aquaris-dev) for the corresponding device project if it is a unofficial project, and we can look into it ASAP!
+
+Supplying good bug reports (logs, screenshots, reproduction steps) helps us to track down issues.
 
 ### Improve the code
 
-Since we're an open source project, you can help out by submitting a patch either as a pull request to our GitHub [repo/organization](https://github.com/aquaris-dev) for WiP projects (devices etc.) or to the LineageOS [Gerrit](https://review.lineageos.org/#/q/status:open) instance for officially supported projects. 
+Since we're an open source project, you can help out by submitting a patch either as a pull request to our GitHub [repo/organization](https://github.com/aquaris-dev) for WiP projects (devices etc.) or a patch to the LineageOS [Gerrit](https://review.lineageos.org/#/q/status:open) instance for officially supported projects.
 
 ### More information
 
