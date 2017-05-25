@@ -29,6 +29,8 @@ gohan
 
 The only current issues are some issues with the Snap camera app and the setting/reading of the serial number from the /persist partition.
 
+We’ve forked our [device tree](https://github.com/LineageOS/android_device_bq_gohan) and [kernel](https://github.com/LineageOS/android_kernel_bq_msm8976) over to the LineageOS GitHub so if you're an interested developer, you’ll need to contribute changes upstream to [Gerrit code review](https://review.lineageos.org/) server.
+
 Special thanks to _cyclon1978_ for stepping up to contribute some very useful (including audio, camera and more) fixes to our project in addition to our usual contributors of _cmorlok_, _eloimuns_, _kra1o5_, _stucki_ and _brinlyau_ for the initial bringup work of cm-14.1 (with the support of our entire team).
 
 We’re working on resolving these final issues, so we can enable official (support of) weekly builds.
@@ -39,7 +41,7 @@ tenshi
 -----------
 [tenshi](http://aquaris-dev.org/images/tenshi-may-screenshot.png) (or bq Aquaris U Plus) has also been getting very close to official builds with our recent work on the cm-14.1 branch. We’re basing our release on the 7.1 release from bq - so make sure you have the latest firmware (2.1 presently) before flashing LineageOS.
 
-We’ve forked our [device tree](https://github.com/LineageOS/android_device_bq_tenshi) and [kernel](https://github.com/LineageOS/android_kernel_bq_msm8937) over to the LineageOS GitHub so if you're an interested developer, you’ll need to contribute changes upstream to [Gerrit code review](https://review.lineageos.org/) server.
+We’ve also forked our [device tree](https://github.com/LineageOS/android_device_bq_tenshi) and [kernel](https://github.com/LineageOS/android_kernel_bq_msm8937) over to the LineageOS GitHub, similar to gohan (see above).
 
 We’re not aware of any issues with the hardware support at this point so we’ll be flipping the [switch](https://review.lineageos.org/#/c/173139/) now for official weekly builds by the LineageOS build server.
 
