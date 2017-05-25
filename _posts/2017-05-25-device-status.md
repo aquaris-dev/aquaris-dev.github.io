@@ -20,30 +20,30 @@ We've been hard at work at some of our mostly recently supported devices includi
 
 We're very close to reaching a point on both devices when they have "official full support" rather than being in a limbo case of "WIP" - see sections below for more info :)
 
-Both are targeted for cm-14.1/Android 7.1.2 release status, using the latest BQ release for firmware and kernel / driver binaries (thanks to BQ for promptly releasing the (GPL licenced) kernel source).
+Both are targeted for cm-14.1/Android 7.1.2 release status, using the latest bq release for firmware and kernel / driver binaries (thanks to bq for promptly releasing the (GPL licenced) kernel source).
 
 
 gohan
 -----------
-[gohan](http://aquaris-dev.org/images/gohan-may-screenshot.png) (or BQ Aquaris X5 Plus) has been getting very close to the official mark of support with our recent work on this [project](https://github.com/LineageOS/android_device_bq_gohan).
+[gohan](http://aquaris-dev.org/images/gohan-may-screenshot.png) (or bq Aquaris X5 Plus) has been getting very close to the official mark of support with our recent work on this [project](https://github.com/LineageOS/android_device_bq_gohan).
 
 The only current issues are some issues with the Snap camera app and the setting/reading of the serial number from the /persist partition.
 
-Special thanks to _cyclon1978_ for stepping up to contribute some very useful (including audio, camera and more) fixes to our project in addition to our usual contributors of _cmorlok_ , _stucki_ and _kra1o5_ for the initial bringup work of cm-14.1 (with the support of our entire team)..
+Special thanks to _cyclon1978_ for stepping up to contribute some very useful (including audio, camera and more) fixes to our project in addition to our usual contributors of _cmorlok_, _eloimuns_, _kra1o5_, _stucki_ and _brinlyau_ for the initial bringup work of cm-14.1 (with the support of our entire team).
 
 We’re working on resolving these final issues, so we can enable official (support of) weekly builds.
 
-Please use the latest firmware to avoid strange issues if you are testing our work (you can find testing releases posted by our members on htcmania and android-hilfe.de).
+Please use the latest firmware to avoid strange issues if you are testing our work (you can find testing releases posted by our members on [htcmania](http://www.htcmania.com/showthread.php?t=1318334) and [android-hilfe.de](https://www.android-hilfe.de/thema/rom-7-1-lineageos-14-1-fuer-das-bq-aquaris-x5-plus-rc.829251/)).
 
 tenshi
 -----------
-[tenshi](http://aquaris-dev.org/images/tenshi-may-screenshot.png) (or BQ Aquaris U Plus) has also been getting very close to official builds too with recent work on our recent work on the cm-14.1 branch. We’re basing our release on the 7.1 release from BQ - so make sure you have the latest firmware (2.1 presently) before flashing LineageOS.
+[tenshi](http://aquaris-dev.org/images/tenshi-may-screenshot.png) (or bq Aquaris U Plus) has also been getting very close to official builds with our recent work on the cm-14.1 branch. We’re basing our release on the 7.1 release from bq - so make sure you have the latest firmware (2.1 presently) before flashing LineageOS.
 
-We’ve forked our [device tree](https://github.com/LineageOS/android_device_bq_tenshi) and [kernel](https://github.com/LineageOS/android_kernel_bq_msm8937) over to the LineageOS GitHub so if you're an interested developer, you’ll need to contribute changes upstream to gerrit code review server.
+We’ve forked our [device tree](https://github.com/LineageOS/android_device_bq_tenshi) and [kernel](https://github.com/LineageOS/android_kernel_bq_msm8937) over to the LineageOS GitHub so if you're an interested developer, you’ll need to contribute changes upstream to [Gerrit code review](https://review.lineageos.org/) server.
 
 We’re not aware of any issues with the hardware support at this point so we’ll be flipping the [switch](https://review.lineageos.org/#/c/173139/) now for official weekly builds by the LineageOS build server.
 
-reminder: chaozu/chaozulite are presently _not_ supported so we advise against flashing tenshi builds on those devices since it may brick your device..
+Reminder: chaozu / chaozulite (bq Aquaris U / U lite) are presently _not_ supported so we advise against flashing tenshi builds on those devices since it may brick your device..
 
 Props to _eloimuns_ and _brinlyau_ for their work on enabling support for this device.
 
@@ -56,7 +56,7 @@ We've updated all the devices kernels to include May’s security patches (some 
 LineageOS Status
 ----------------
 
-The community around LineageOS has grown [quite notably](https://stats.lineageos.org/), and with this, so has our BQ specific user-base.
+The community around LineageOS has grown [quite notably](https://stats.lineageos.org/), and with this, so has our bq specific user-base.
 
 Regardless, it is great to see that the total number of active LineageOS installations is currently at more than 1.6 million devices. 
 
@@ -80,7 +80,7 @@ If there are any other issues with any of the three _supported_ devices listed a
 Wiki updates
 ------------------------
 
-LineageOS wiki pages have been updated and added for our currently supported BQ devices. Go check it out (or fix mistakes/typos) on the [LineageOS wiki](https://wiki.lineageos.org).
+LineageOS wiki pages have been updated and added for our currently supported bq devices. Go check it out (or fix mistakes/typos) on the [LineageOS wiki](https://wiki.lineageos.org).
 
 
 New bq device support
