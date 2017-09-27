@@ -17,8 +17,9 @@ LineageOS Status
 
 While the LineageOS team is just slightly better than us with doing status reports, they still published some news which you can find on their website [www.lineageos.org](https://www.lineageos.org/). The project is continuously improving not only feature wise but also under the hood (infastructure, team organization, documentation).
 
-Some numbers:  
-The total number of active LineageOS installations is now 1.6 Million devices (April 2017: 1.4 Mio).  
+### Some numbers:
+
+The total number of active LineageOS installations is now 1.6 Million devices (April 2017: 1.4 Mio).
 The adoption of bq devices has also improved but just in small parts:
 
 - Piccolo (bq Aquaris M5): 1668 (April 2017: 1544)
@@ -27,9 +28,9 @@ The adoption of bq devices has also improved but just in small parts:
 - Gohan (bq Aquaris X5 Plus): 231 (new)
 - Tenshi (bq Aquaris U Plus): 45 (new)
 
-Source: https://stats.lineageos.org/
+Source: [stats.lineageos.org](https://stats.lineageos.org/)
 
-It is not too surprising that the installation count for devices from 2014/2015 is stagnating or even going down. We still plan to provide regular builds for these devices (cm-14.1) for as long as LineageOS will release these builds.
+It is not too surprising that the installation count for devices from 2014/2015 is stagnating or even going down. We still plan to provide regular builds for these devices (`cm-14.1`) for as long as LineageOS will release these builds.
 
 Weekly Releases
 ---------------
