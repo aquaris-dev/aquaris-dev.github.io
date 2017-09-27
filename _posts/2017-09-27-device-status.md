@@ -58,6 +58,4 @@ If there are any issues with any of our supported devices, please report a bug o
 Plans for Android Oreo
 ------------------------
 
-Currently, a lot of work is happening in the `lineage-15.0` branch on [review.lineageos.org](https://review.lineageos.org/). We have not started work on the new release yet so we cannot tell if or when these will be ready. What can be said for sure is that bq has announced Android Oreo for gohan and tenshi. That means, it should be not too ... [TODO]
-
-That's it for now. Have fun!
+Currently, a lot of work is happening in the `lineage-15.0` branch on [review.lineageos.org](https://review.lineageos.org/). We have not started work on the new release yet so we cannot tell if or when these will be ready. What can be said for sure is that bq has announced Android Oreo for gohan and tenshi.
