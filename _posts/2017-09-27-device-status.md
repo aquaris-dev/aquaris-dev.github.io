@@ -35,7 +35,7 @@ It is not too surprising that the installation count for devices from 2014/2015 
 Weekly Releases
 ---------------
 
-As you can see above, we have added to new devices to the list: The bq Aquaris X5 Plus (gohan) should receive official weekly builds starting this week! Additionally, the bq Aquaris U Plus (tenshi) should follow soon (it boots fine if you like to build it on your own).
+As you can see above, we have added two new devices to the list: The bq Aquaris X5 Plus (gohan) will receive official weekly builds starting this week! Additionally, the bq Aquaris U Plus (tenshi) should follow soon (it boots fine if you like to build it on your own).
 
 That means, new builds are now (soon) released every week for the following devices:
 
