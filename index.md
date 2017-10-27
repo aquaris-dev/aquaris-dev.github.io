@@ -29,14 +29,14 @@ Absolutely! Android is an open source project, and so is ours. All code used to 
 
 Aquaris-dev is a collaboration of the following developers (handle first, then real name): 
 
-- brinlyau - Brinly Taylor {% include au.html %}
+- [brinlyau](https://github.com/brinlyau) - Brinly Taylor {% include au.html %}
 
-- cmorlok - Christian Morlok {% include de.html %} {% include ch.html %}
+- [cmorlok](https://github.com/cmorlok) - Christian Morlok {% include de.html %} {% include ch.html %}
 
-- eloimuns - Eloi Carracedo {% include es.html %}
+- [eloimuns](https://github.com/eloimuns) - Eloi Carracedo {% include es.html %}
 
-- kra1o5 - Alejandro {% include es.html %}
+- [kra1o5](https://github.com/kra1o5) - Alejandro {% include es.html %}
 
-- stucki - Michael Stucki {% include ch.html %}
+- [stucki](https://github.com/stucki) - Michael Stucki {% include ch.html %}
 
 We're an international team and we are looking forward to welcome more developers to [contribute](/contribute.html).
