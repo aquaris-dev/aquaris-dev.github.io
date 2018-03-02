@@ -9,7 +9,7 @@ Aquaris-dev is a group of independent Android developers whose members voluntari
 
 ### Which devices are supported?
 
-We only support Qualcomm based bq devices like: <nobr>Aquaris E5 LTE (vegetalte)</nobr>, <nobr>Aquaris M5 (piccolo)</nobr>, <nobr>Aquaris U Plus (tenshi)</nobr>, <nobr>Aquaris X5 (paella)</nobr>, <nobr>Aquaris X5 Plus (gohan)</nobr>.
+We only support Qualcomm based bq devices like: <nobr>Aquaris E5 LTE (vegetalte)</nobr>, <nobr>Aquaris M5 (piccolo)</nobr>, <nobr>Aquaris U (chaozu)</nobr>, <nobr>Aquaris U Plus (tenshi)</nobr>, <nobr>Aquaris X5 (paella)</nobr>, <nobr>Aquaris X5 Plus (gohan)</nobr>.
 Check the [devices page](/devices.html) for more information. 
 
 ### Where can I get your work?
