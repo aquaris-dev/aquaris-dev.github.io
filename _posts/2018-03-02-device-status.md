@@ -87,9 +87,20 @@ We wanted to make it pretty simple to update your device's firmware, so we prepa
 
 Notes:
 
-FIRMWARE flash requires a reflash if the modem partition didn't get written to correctly.
-
+ * FIRMWARE flash requires a reflash if the modem partition didn't get written to correctly.
  * Next build will be at 03/03, make sure to update firmware at this time, if not before. - 03/03 build will be the first build requring stock N firmware.
+
+### File Checksums
+
+    SHA256:
+    c6a5b65582ca8daea820c0a4edad9f416e332c0d3819a3afd874ba4facc4b8bb  FirmwareN_piccolo_v5.1.0.zip
+    f5ee8ff8fc700773d7ac6e1d1c51ab6852f8905282d43cd92225c071e38c77da  FirmwareN_picmt_v5.1.0.zip
+    4f505d22ab184660fc54d4008044fce9eae0559a548d21d1d2d8de7118f86c73  CameraBQ_paella-piccolo_5.1.0_signed.zip
+
+    MD5:
+    80898ad331457b23d9ad907d7a48a009  FirmwareN_piccolo_v5.1.0.zip
+    9c5ce75f4f10718b1c5acaa0a36cc5fe  FirmwareN_picmt_v5.1.0.zip
+    5f6f7cf626511bae2e9be0fa194683fc  CameraBQ_paella-piccolo_5.1.0_signed.zip
 
 
 Aquaris X5 (gohan)
