@@ -73,6 +73,10 @@ We wanted to make it pretty simple to update your device's firmware, so we prepa
 
 2 - Download the next* LineageOS build from the download [server](https://download.lineageos.org/).
 
+3 - Optional: Download the latest bq Camera release:
+
+   - [bq Camera for M5 & X5](https://drive.google.com/file/d/1URujpry0P4tt2VGDAAqOJGGxawYE6c9O/view)
+
 3 - Reboot to recovery and copy FIRMWARE and ROM zip to internal storage.
 
 4 - Flash FIRMWARE zip.
