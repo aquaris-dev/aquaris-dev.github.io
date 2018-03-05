@@ -124,3 +124,7 @@ Besides this, there are no open issues reported in the [LineageOS issue tracker]
 
 If there are any issues with any of our supported devices, please report a bug on the [LineageOS issue tracker](https://jira.lineageos.org/).
 
+Updates
+-----------
+
+* 2018-03-05: Add download link for bq Camera for M5 & X5, add download checksums
