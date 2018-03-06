@@ -9,14 +9,14 @@ title: Devices
 
 Right now the following devices are officially supported by LineageOS and maintained by our team:
 
-* [Aquaris E5 LTE](http://wiki.lineageos.org/vegetalte_info.html) (vegetalte)
-* [Aquaris M5](http://wiki.lineageos.org/piccolo_info.html) (piccolo)
-* [Aquaris X5](http://wiki.lineageos.org/paella_info.html) (paella)
-* [Aquaris X5 Plus](http://wiki.lineageos.org/gohan_info.html) (gohan)
-* [Aquaris U](http://wiki.lineageos.org/chaozu_info.html) (chaozu)
-* [Aquaris U Plus](http://wiki.lineageos.org/tenshi_info.html) (tenshi)
+* [Aquaris E5 LTE](https://wiki.lineageos.org/devices/vegetalte) (vegetalte)
+* [Aquaris M5](https://wiki.lineageos.org/devices/piccolo) (piccolo)
+* [Aquaris X5](https://wiki.lineageos.org/devices/paella) (paella)
+* [Aquaris X5 Plus](https://wiki.lineageos.org/devices/gohan) (gohan)
+* [Aquaris U](https://wiki.lineageos.org/devices/chaozu) (chaozu)
+* [Aquaris U Plus](https://wiki.lineageos.org/devices/tenshi) (tenshi)
 
-The links above will redirect you to the official [LineageOS Wiki](http://wiki.lineageos.org/) where detailed installation and build instructions can be found.
+The links above will redirect you to the official [LineageOS Wiki](https://wiki.lineageos.org/) where detailed installation and build instructions can be found.
 
 ### Unofficially supported
 
