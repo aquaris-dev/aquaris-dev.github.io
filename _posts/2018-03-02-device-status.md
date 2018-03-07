@@ -103,7 +103,7 @@ Notes:
     5f6f7cf626511bae2e9be0fa194683fc  CameraBQ_paella-piccolo_5.1.0_signed.zip
 
 
-Aquaris X5 (gohan)
+Aquaris X5 Plus (gohan)
 ------------------
 
 We merged a [patch](https://review.lineageos.org/#/c/200886/) fixing an [issue](http://jira.lineageos.org/browse/BUGBASH-1202) affecting use of the camera/torch functionality for some users with camera sensor that was introduced by BQ recently (cmb087qr) that wasn't present on our test devices.
