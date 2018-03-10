@@ -8,7 +8,7 @@ author: stucki
 
 Hi everyone!
 
-out last blog post is just 4 months old now. Time for some good news...
+Our last blog post is just 4 months old now. Time for some good news...
 
 If you like to read more regular news on this website, consider to join the team. Let us know if and how you like to help.
 
