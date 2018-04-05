@@ -8,7 +8,7 @@ author: brinly
 
 Hello all and welcome to the second aquaris-dev team update of 2018,
 
-We're starting to rememeber to make blogs once a month and we're sorry about the delay in our news updates, but real life comes first, and we barely remember to update this..
+We're starting to remember to make blogs once a month and we're sorry about the delay in our news updates, but real life comes first, and we barely remember to update this..
 
 If you like to read more regular news on this website, please consider joining the team as a [developer](/contribute.html).
 
@@ -16,7 +16,7 @@ LineageOS Status
 ----------------
 
 The LineageOS team is much better than us at remembering to do doing status reports, as they regularly publish news which you can find on their [website](https://www.lineageos.org).
-The entire LineageOS project is continuously improving not only feature and design wise but also under the hood (infrastructure, team organization and documentation).. The team recently announced the Lineage SDK (https://lineageos.org/Introducing-the-LineageSDK/) for Lineage 15.1 devices, so we're not eligble currently, but this is something we are looking forward to releasing for you (...[hint ;) ](http://aquaris-dev.org/images/bardock151.png)..)..
+The entire LineageOS project is continuously improving not only feature and design wise but also under the hood (infrastructure, team organization and documentation).. The team recently announced the [Lineage SDK](https://lineageos.org/Introducing-the-LineageSDK/) for Lineage 15.1 devices, so we're not eligble currently, but this is something we are looking forward to releasing for you (...[hint ;) ](http://aquaris-dev.org/images/bardock151.png)..)..
 
 ### Some numbers:
 
