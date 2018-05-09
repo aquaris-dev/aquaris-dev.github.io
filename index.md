@@ -14,7 +14,7 @@ Check the [devices page](/devices.html) for more information.
 
 ### Where can I get your work?
 
-Official nightly builds and stable releases can be downloaded on the [LineageOS download](https://download.lineageos.org) page. 
+Official weekly releases can be downloaded on the [LineageOS download](https://download.lineageos.org) page.
 
 We also have active forum threads incl. installation instructions and download links:
 
