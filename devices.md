@@ -22,6 +22,7 @@ The links above will redirect you to the official [LineageOS Wiki](https://wiki.
 
 The following devices are currently work in progress and should soon get official support by LineageOS:
 
+* Aquaris X - (bardock)
 * Aquaris X Pro - (bardockpro)
 
 ### Experimental
