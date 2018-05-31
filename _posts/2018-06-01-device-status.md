@@ -8,7 +8,7 @@ author: brinly
 
 Hello all and welcome to the June aquaris-dev team update of 2018,
 
-Another 2 months has passed, with not too much excitement publicly (apart from that April Fools drama) - big news this month arrives. We missed a May update, but we were hard at work regardless. We won’t cover the stats this time, but you can see the stats of how popular our BQ devices are by checking on the LineageOS [stats](stats.lineageos.org) site.
+Another 2 months has passed, with not too much excitement publicly (apart from that April Fools drama) - big news this month arrives. We missed a May update, but we were hard at work regardless. We won’t cover the stats this time, but you can see the stats of how popular our BQ devices are by checking on the LineageOS [stats](https://stats.lineageos.org) site.
 
 If you like to read more regular news on this website, please consider joining the team as a [developer](/contribute.html).
 
