@@ -17,14 +17,14 @@ If you don't know what Slack is, [click here](https://slack.com/).
 
 On our Slack community, we've got different channels:
 
-  - #announcements : Read-only channel for important things like upcoming releases, new device support, blog post links, etc.
-  - #general : General discussion about bq
-  - #random : Random and off-topic discussion
+  - **#announcements** : Read-only channel for important things like upcoming releases, new device support, blog post links, etc.
+  - **#general** : General discussion about bq
+  - **#random** : Random and off-topic discussion
   - Channel per device / platform: We have open channels for each device/platform.
-    - #bq_msm8916 : piccolo, vegetalte, piccolometal, paella (Aquaris M5, Aquaris E5 4G / E5S, Aquaris X5)
-    - #bq_msm8937 : chaozulite, chaozu, tenshi (Aquaris U (Lite, Normal, Plus))
-    - #bq_gohan : gohan (Aquaris X5 Plus)
-    - #bq_bardock : bardock, bardockpro (Aquaris X / X Pro)
+    - **#bq_msm8916** : piccolo, vegetalte, piccolometal, paella (Aquaris M5, Aquaris E5 4G / E5S, Aquaris X5)
+    - **#bq_msm8937** : chaozulite, chaozu, tenshi (Aquaris U (Lite, Normal, Plus))
+    - **#bq_gohan** : gohan (Aquaris X5 Plus)
+    - **#bq_bardock** : bardock, bardockpro (Aquaris X / X Pro)
 
 Remarks:
   - Use English only.
