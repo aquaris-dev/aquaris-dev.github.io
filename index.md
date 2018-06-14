@@ -27,7 +27,7 @@ Absolutely! Android is an open source project, and so is ours. All code used to 
 
 ### Who are we?
 
-Aquaris-dev is a collaboration of the following developers (handle first, then real name): 
+Aquaris-dev is a collaboration of the following developers (handle first, real name and country/timezone that they represent): 
 
 - [brinlyau](https://github.com/brinlyau) - Brinly Taylor {% include au.html %}
 
