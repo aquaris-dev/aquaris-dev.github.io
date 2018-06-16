@@ -10,7 +10,7 @@ There are many ways for you to help:
 
 ### Share your feedback
 
-Let us know if you like our work. Use the comment form on the [blog posts](/blog.html).
+Let us know if you like our work. Jump into our [Slack community](https://aquaris-dev.slack.com) or use the comment form on the [blog posts](/blog.html). 
 
 ### Report bugs
 
@@ -24,7 +24,7 @@ Supplying good bug reports (logs, screenshots, reproduction steps) helps us to t
 
 ### Improve the code
 
-Since we're an Open Source project, you can help out by submitting a patch either as a pull request to our GitHub [repo/organization](https://github.com/aquaris-dev) for WiP projects (devices etc.) or a patch to the LineageOS [Gerrit](https://review.lineageos.org/#/q/status:open) instance for officially supported projects.
+Since we're an Open Source project, you can help out by submitting a patch either as a pull request to our GitHub [repo/organization](https://github.com/aquaris-dev) for WiP projects (devices, this website etc.) or a patch to the LineageOS [Gerrit](https://review.lineageos.org/#/q/status:open) instance for officially supported projects.
 
 ### More information
 
