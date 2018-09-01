@@ -11,10 +11,13 @@ Right now the following devices are officially supported by LineageOS and mainta
 
 * [Aquaris E5 LTE](https://wiki.lineageos.org/devices/vegetalte) (vegetalte)
 * [Aquaris M5](https://wiki.lineageos.org/devices/piccolo) (piccolo)
-* [Aquaris X5](https://wiki.lineageos.org/devices/paella) (paella)
-* [Aquaris X5 Plus](https://wiki.lineageos.org/devices/gohan) (gohan)
 * [Aquaris U](https://wiki.lineageos.org/devices/chaozu) (chaozu)
 * [Aquaris U Plus](https://wiki.lineageos.org/devices/tenshi) (tenshi)
+* [Aquaris X5](https://wiki.lineageos.org/devices/paella) (paella)
+* [Aquaris X5 Plus](https://wiki.lineageos.org/devices/gohan) (gohan)
+* [Aquaris X](https://wiki.lineageos.org/devices/bardock) (bardock)
+* [Aquaris X Pro](https://wiki.lineageos.org/devices/bardockpro) (bardockpro)
+
 
 The links above will redirect you to the official [LineageOS Wiki](https://wiki.lineageos.org/) where detailed installation and build instructions can be found.
 
@@ -22,8 +25,8 @@ The links above will redirect you to the official [LineageOS Wiki](https://wiki.
 
 The following devices are currently work in progress and should soon get official support by LineageOS:
 
-* Aquaris X - (bardock)
-* Aquaris X Pro - (bardockpro)
+* BQ Aquaris X2 (zangya)
+* BQ Aquaris X2 Pro (zangyapro)
 
 ### Experimental
 
@@ -35,4 +38,4 @@ We plan to support other Qualcomm bq devices in the future with our LineageOS An
 
 ### Status
 
-More detailed status updates will be published on our blog. The latest status update was published on [June 1, 2018]({% post_url 2018-06-01-device-status %}).
+More detailed status updates will be published on our blog. The latest status update was published on [September 1, 2018]({% post_url 2018-09-01-device-status %}).

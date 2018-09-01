@@ -9,7 +9,7 @@ Aquaris-dev is a group of independent Android developers whose members voluntari
 
 ### Which devices are supported?
 
-We only support Qualcomm based bq devices like: <nobr>Aquaris E5 LTE (vegetalte)</nobr>, <nobr>Aquaris M5 (piccolo)</nobr>, <nobr>Aquaris U (chaozu)</nobr>, <nobr>Aquaris U Plus (tenshi)</nobr>, <nobr>Aquaris X5 (paella)</nobr>, <nobr>Aquaris X5 Plus (gohan)</nobr>.
+We only support Qualcomm based bq devices like: <nobr>Aquaris E5 LTE (vegetalte)</nobr>, <nobr>Aquaris M5 (piccolo)</nobr>, <nobr>Aquaris U (chaozu)</nobr>, <nobr>Aquaris U Plus (tenshi)</nobr>, <nobr>Aquaris X5 (paella)</nobr>, <nobr>Aquaris X5 Plus (gohan), Aquaris X (bardock, Aquaris X Pro (bardockpro)</nobr>.
 Check the [devices page](/devices.html) for more information. 
 
 ### Where can I get your work?
@@ -23,7 +23,7 @@ We also have active forum threads incl. installation instructions and download l
 
 ### Is the source code available?
 
-Absolutely! Android is an open source project, and so is ours. All code used to build our ROMs is available on GitHub, either directly from us at [Aquaris-dev](https://github.com/aquaris-dev) for device specific projects or as part of [LineageOS](https://github.com/lineageos) for the main system.
+Absolutely! Android is an open source project, and so is ours. All code used to build our ROMs is available on GitHub, either directly from us at [Aquaris-dev](https://github.com/aquaris-dev) for device specific projects or as part of [LineageOS](https://github.com/lineageos) for the officially supported devices.
 
 ### Who are we?
 
