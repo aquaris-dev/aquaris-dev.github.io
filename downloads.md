@@ -41,6 +41,14 @@ title: Downloads
 * [TWRP](https://twrp.me/bq/bqaquarisuplus.html)
 * [LineageOS](https://download.lineageos.org/tenshi)
 
+### Aquaris X (bardock): 
+* [TWRP](https://twrp.me/bq/bqaquarisx.html)
+* [LineageOS](https://download.lineageos.org/bardock)
+
+### Aquaris X Pro (bardockpro): 
+* [TWRP](https://twrp.me/bq/bqaquarisxpro.html)
+* [LineageOS](https://download.lineageos.org/bardockpro)
+
 ### All devices:
 * [Google Apps](https://wiki.lineageos.org/gapps.html)
 * [Root](https://download.lineageos.org/extras)
