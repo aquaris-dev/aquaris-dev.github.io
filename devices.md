@@ -38,4 +38,4 @@ We plan to support other Qualcomm bq devices in the future with our LineageOS An
 
 ### Status
 
-More detailed status updates will be published on our blog. The latest status update was published on [September 1, 2018]({% post_url 2018-09-01-device-status %}).
+More detailed status updates will be published on our blog. The latest status update was published on [October 16, 2018]({% post_url 2018-10-16-oct-blog %}).
