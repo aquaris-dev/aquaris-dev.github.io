@@ -16,7 +16,7 @@ Let us know if you like our work. Jump into our [Slack community](https://aquari
 
 We put a lot of effort into building our releases, but we'd always like to be better.
 
-If you are using a officially supported device, please report bugs at the LineageOS [Jira issue tracker](https://jira.lineageos.org) for the corresponding device project.
+If you are using a officially supported device, please report bugs at the LineageOS [GitLab issue tracker](https://gitlab.com/LineageOS/issues) for the corresponding device project.
 
 Please report bugs on the [GitHub issue page](https://github.com/aquaris-dev) for the corresponding device project if it is a unofficial project, and we can look into it ASAP!
 
