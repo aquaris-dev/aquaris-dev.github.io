@@ -29,18 +29,6 @@ title: Downloads
     * MD5: c509ba827e58222584d0e9fb2c43556f
     * [Blog](https://aquaris-dev.org/blog/2018/03/02/device-status.html#aquaris-m5-piccolo--x5-paella)
 
-### Aquaris X5 Plus (gohan): 
-* [TWRP](https://twrp.me/bq/bqaquarisx5plus.html)
-* [LineageOS](https://download.lineageos.org/gohan)
-
-### Aquaris U (chaozu): 
-* [TWRP](https://twrp.me/bq/bqaquarisu.html)
-* [LineageOS](https://download.lineageos.org/chaozu)
-
-### Aquaris U Plus (tenshi): 
-* [TWRP](https://twrp.me/bq/bqaquarisuplus.html)
-* [LineageOS](https://download.lineageos.org/tenshi)
-
 ### Aquaris X (bardock): 
 * [TWRP](https://twrp.me/bq/bqaquarisx.html)
 * [LineageOS](https://download.lineageos.org/bardock)
