@@ -9,12 +9,8 @@ title: Devices
 
 Right now the following devices are officially supported by LineageOS and maintained by our team:
 
-* [Aquaris E5 LTE](https://wiki.lineageos.org/devices/vegetalte) (vegetalte)
-* [Aquaris M5](https://wiki.lineageos.org/devices/piccolo) (piccolo)
-* [Aquaris X5](https://wiki.lineageos.org/devices/paella) (paella)
-* [Aquaris X](https://wiki.lineageos.org/devices/bardock) (bardock)
-* [Aquaris X Pro](https://wiki.lineageos.org/devices/bardockpro) (bardockpro)
-
+* [Aquaris X](https://wiki.lineageos.org/devices/bardock) (bardock) / LineageOS 16.0
+* [Aquaris X Pro](https://wiki.lineageos.org/devices/bardockpro) (bardockpro) / LineageOS 16.0
 
 The links above will redirect you to the official [LineageOS Wiki](https://wiki.lineageos.org/) where detailed installation and build instructions can be found.
 
@@ -27,7 +23,14 @@ The following devices are currently work in progress and should soon get officia
 
 ### Formally supported devices
 
-These were once supported, but had to be dropped from our roster due to some issues (feel free to step up if you have the skills)
+The following devices were once supported, but their system version (CyanogenMod 14.1) is discontinued.  
+Updates based on LineageOS 15.1 are currently work in progress and may get official support by LineageOS again:
+
+* [Aquaris E5 LTE](https://wiki.lineageos.org/devices/vegetalte) (vegetalte)
+* [Aquaris M5](https://wiki.lineageos.org/devices/piccolo) (piccolo)
+* [Aquaris X5](https://wiki.lineageos.org/devices/paella) (paella)
+
+The devices below were once supported, but had to be dropped from our roster due to some issues (feel free to step up if you have the skills)
 
 * [Aquaris U](https://wiki.lineageos.org/devices/chaozu) (chaozu)
 * [Aquaris U Plus](https://wiki.lineageos.org/devices/tenshi) (tenshi)
